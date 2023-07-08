@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicios/TelaInicio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Inicios/TelaComoJogar.unity
+    guid: d35986fe60216d4448936e4f4b996aa4
+  - enabled: 1
+    path: Assets/Scenes/PrimeiraParte/TelaAlfabeto.unity
+    guid: c8cb0a63ea59e304fb5908fea9fa8008
+  - enabled: 1
+    path: Assets/Scenes/PrimeiraParte/TelaGame2.unity
+    guid: c2e9a547c6aff4548abc76526751a4f0
+  - enabled: 1
+    path: Assets/Scenes/PrimeiraParte/TelaGamess.unity
+    guid: 4f88ec5f697393e4bbf4bdbddfe124e3
+  - enabled: 1
+    path: "Assets/Scenes/SegundaParte - Sinais/Introdu\xE7\xE3oSeg.unity"
+    guid: 467c369c94a92184d913031ec91c69c8
+  - enabled: 1
+    path: Assets/Scenes/SegundaParte - Sinais/Sinais.unity
+    guid: 0f55bdafe6459c844b7c3586531aaf2c
+  - enabled: 1
+    path: Assets/Scenes/SegundaParte - Sinais/Sinais2.unity
+    guid: df95e09390b8c91438ae1fa7ae2b8f74
+  - enabled: 1
+    path: Assets/Scenes/TerceiraParte/TelaTerceira.unity
+    guid: 562f8b4932c5f2c439d71884201d37b0
+  - enabled: 1
+    path: Assets/Scenes/TerceiraParte/TerceiraParte.unity
+    guid: 184105b179e5ae8429fc9a21136c71da
+  - enabled: 1
+    path: Assets/Scenes/TelaResultados/TelaDerrota.unity
+    guid: cb36c295f47fb0246879184a385b1d01
+  - enabled: 1
+    path: Assets/Scenes/TelaResultados/TelaVitoria.unity
+    guid: c517c4a6871b040479e973bec1165fd4
+  - enabled: 1
+    path: Assets/Scenes/Inicios/TelaAviso.unity
+    guid: 8526c3e518503454881407a5f8237412
+  - enabled: 1
+    path: Assets/Scenes/Inicios/TelaColaboradores.unity
+    guid: 44c111f6536df68429f15151f002a08e
+  m_configObjects: {}
